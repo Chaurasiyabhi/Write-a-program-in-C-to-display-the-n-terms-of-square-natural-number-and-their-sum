@@ -1,0 +1,1 @@
+# Write-a-program-in-C-to-display-the-n-terms-of-square-natural-number-and-their-sum
